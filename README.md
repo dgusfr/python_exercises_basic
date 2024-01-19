@@ -2,12 +2,6 @@
 
 Este repositório contém uma série de exercícios resolvidos em Python, abrangendo conceitos básicos da linguagem.
 
-## Logo
-
-<div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="300">
-</div>
-
 ## Sumário
 
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
