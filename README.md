@@ -47,6 +47,20 @@ Este repositório contém uma série de exercícios resolvidos em Python, abrang
 - **15.py**: Para uma loja de tintas, calcula a quantidade de tinta e os preços em diferentes situações.
 - **16.py**: Pede o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcula e informa o tempo aproximado de download do arquivo (em minutos).
 
+**EstruturaDecisão**
+
+- **1.py**: Este programa solicita um número inteiro ao usuário e determina se é par ou ímpar, utilizando o operador módulo para verificar o resto da divisão.
+- **2.py**: Solicita um número ao usuário e informa se o número é inteiro ou decimal, utilizando a função `is_integer()` para verificar se o número possui parte decimal.
+- **3.py**: Lê dois números e uma operação do usuário. Realiza a operação escolhida e classifica o resultado como par/ímpar, positivo/negativo, e inteiro/decimal.
+- **4.py**: Calcula a média de duas notas e imprime se o aluno foi aprovado, reprovado ou aprovado com distinção, baseado nas condições estabelecidas.
+- **5.py**: Lê três números e mostra o maior e o menor entre eles.
+- **6.py**: Pergunta em que turno o usuário estuda (M-matutino, V-Vespertino, N-Noturno) e imprime a saudação correspondente.
+- **7.py**: Recebe o salário de um colaborador, calcula o reajuste conforme faixas estabelecidas e exibe informações sobre o aumento.
+- **8.py**: Pede os três lados de um triângulo, verifica se é possível formar um triângulo e classifica como equilátero, isósceles ou escaleno.
+- **9.py**: Calcula as raízes de uma equação do segundo grau (ax² + bx + c), levando em consideração diferentes casos como delta negativo, igual a zero ou positivo.
+- **10.py**: Pede um ano ao usuário e informa se é bissexto ou não.
+- **11.py**: Lê um número inteiro menor que 1000 e imprime a quantidade de centenas, dezenas e unidades na forma textual.
+
 ## Funcionalidades:
 
 - Cada arquivo aborda um exercício específico.
@@ -61,9 +75,15 @@ Este repositório contém uma série de exercícios resolvidos em Python, abrang
 ## Estrutura do Projeto:
 
 - **EstruturaSequencial**
+
   - 1.py
   - ...
   - 18.py
+
+- **EstruturaDecisão**
+  - 1.py
+  - ...
+  - 11.py
 
 ## Autor
 
