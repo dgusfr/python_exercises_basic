@@ -61,6 +61,42 @@ Este repositório contém uma série de exercícios resolvidos em Python, abrang
 - **10.py**: Pede um ano ao usuário e informa se é bissexto ou não.
 - **11.py**: Lê um número inteiro menor que 1000 e imprime a quantidade de centenas, dezenas e unidades na forma textual.
 
+**EstruturaRepetição**
+
+- **1.py**: Calcula e imprime o número de anos necessários para que a população do país A ultrapasse ou iguale a população do país B, mantendo taxas de crescimento fixas.
+
+- **2.py**: Versão personalizada do programa anterior, permitindo ao usuário informar as populações e as taxas de crescimento iniciais.
+
+- **3.py**: Imprime os números de 1 a 20, tanto um abaixo do outro quanto um ao lado do outro.
+
+- **4.py**: Solicita 5 números ao usuário e informa o maior deles.
+
+- **5.py**: Solicita 5 números ao usuário, calcula e informa a soma e a média desses números.
+
+- **6.py**: Imprime na tela apenas os números ímpares entre 1 e 50.
+
+- **7.py**: Recebe dois números inteiros do usuário e gera os números inteiros que estão no intervalo compreendido por eles.
+
+- **8.py**: Gera a série de Fibonacci até o n-ésimo termo.
+
+- **9.py**: Gera a série de Fibonacci até que o valor seja maior que 500.
+
+- **10.py**: Calcula o fatorial de um número inteiro fornecido pelo usuário.
+
+- **11.py**: Dado um conjunto de N números, determina o menor valor, o maior valor e a soma dos valores.
+
+- **12.py**: Verifica se um número inteiro fornecido pelo usuário é primo.
+
+- **13.py**: Calcula o fatorial de um número inteiro fornecido pelo usuário, apresentando os cálculos detalhados.
+
+- **14.py**: Recebe um número inteiro positivo do usuário e mostra o número invertido.
+
+- **15.py**: Mostra os n termos da Série específica e imprime a soma da série.
+
+- **16.py**: Calcula o valor de H com N termos para a Série específica.
+
+- **17.py**: Gera a Série específica até n termos e imprime a soma da série.
+
 ## Funcionalidades:
 
 - Cada arquivo aborda um exercício específico.
@@ -81,9 +117,15 @@ Este repositório contém uma série de exercícios resolvidos em Python, abrang
   - 18.py
 
 - **EstruturaDecisão**
+
   - 1.py
   - ...
   - 11.py
+
+- **EstruturaRepetição**
+  - 1.py
+  - ...
+  - 17.py
 
 ## Autor
 
