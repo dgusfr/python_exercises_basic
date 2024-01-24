@@ -101,7 +101,7 @@ Este repositório contém uma série de exercícios resolvidos em Python, abrang
 
 ## Como Usar:
 
-1. Clone o repositório: `git clone https://github.com/seuusuario/nome-do-repositorio.git`
+1. Clone o repositório
 2. Navegue até o diretório: `cd nome-do-repositorio`
 3. Execute cada programa Python conforme necessário: `python 1.py`
 
