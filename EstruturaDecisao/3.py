@@ -15,19 +15,19 @@ elif operacao == '/':
 
 classificacao = ""
 if resultado % 2 == 0:
-    classificacao += "O numero é par "
+    classificacao += "O numero é par,"
 else:
-    classificacao += "O numero é par ímpar "
+    classificacao += "O numero é par ímpar,"
 
 if resultado >= 0:
-    classificacao += "positivo "
+    classificacao += " positivo, "
 else:
-    classificacao += "negativo "
+    classificacao += " negativo, "
 
 if resultado.is_integer():
-    classificacao += "inteiro"
+    classificacao += " e inteiro."
 else:
-    classificacao += "decimal"
+    classificacao += " e decimal."
 
 print(f"Resultado: {resultado}")
 print(f"Classificação: {classificacao}")
