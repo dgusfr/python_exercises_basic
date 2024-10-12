@@ -1,10 +1,10 @@
 salario = float(input("Digite o salário do colaborador: "))
 
-if salario <= 280:
+if salario <= 1500:
     percentual = 20
-elif salario <= 700:
+elif salario <= 2000:
     percentual = 15
-elif salario <= 1500:
+elif salario <= 3000:
     percentual = 10
 else:
     percentual = 5
