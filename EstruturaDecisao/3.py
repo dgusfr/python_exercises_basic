@@ -15,9 +15,9 @@ elif operacao == '/':
 
 classificacao = ""
 if resultado % 2 == 0:
-    classificacao += "par "
+    classificacao += "O numero é par "
 else:
-    classificacao += "ímpar "
+    classificacao += "O numero é par ímpar "
 
 if resultado >= 0:
     classificacao += "positivo "
