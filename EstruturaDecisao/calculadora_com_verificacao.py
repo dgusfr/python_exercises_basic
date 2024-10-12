@@ -15,7 +15,7 @@ elif operacao == '/':
 
 classificacao = ""
 if resultado % 2 == 0:
-    classificacao += "O numero é par,"
+    classificacao += "O numero resultante é par,"
 else:
     classificacao += "O numero é par ímpar,"
 
