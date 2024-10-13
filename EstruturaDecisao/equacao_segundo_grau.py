@@ -1,5 +1,5 @@
 print("Uma equação de segundo grau é dada por (ax² + bx + c)")
-print("Para determinar as raizes de uma equação de segundo grau informe os dados solicitados a baixo.")
+print("Para determinar as raizes de uma equação de segundo grau informe os dados solicitados a baixo.\n")
 
 a = float(input("Digite o valor de a: "))
 if a == 0:
