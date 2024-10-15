@@ -29,7 +29,6 @@ Este repositório contém uma série de exercícios resolvidos em Python, abrang
 **EstruturaSequencial**
 
 - **1**: Exibe a mensagem "Olá mundo" na tela.
-- **2**: Solicita um número e mostra a mensagem "O número informado foi [número]."
 - **3**: Solicita dois números e imprime a soma.
 - **4**: Pede as 4 notas bimestrais e mostra a média.
 - **5**: Converte metros para centímetros.
