@@ -1,2 +1,0 @@
-print("Olá")
-print("Mundo")
