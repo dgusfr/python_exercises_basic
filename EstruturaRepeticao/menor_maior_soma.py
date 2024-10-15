@@ -1,5 +1,9 @@
-n = int(input("Digite a quantidade de números: "))
-numeros = [float(input(f"Digite o {i+1}º número: ")) for i in range(n)]
+numeros = []  
+n = int(input("Digite a quantidade de números que deseja inserir: "))
+
+for i in range(n):
+    numero = float(input(f"Digite o {i+1}º número: "))  
+    numeros.append(numero)  
 
 menor_valor = min(numeros)
 maior_valor = max(numeros)
