@@ -21,7 +21,8 @@ Este repositório contém uma série de exercícios resolvidos em Python, abrang
 </div>
 
 ## Status
-![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge) 
+
+![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
 ## Descrição:
 
@@ -88,11 +89,9 @@ Este repositório contém uma série de exercícios resolvidos em Python, abrang
 
 - **14.py**: Recebe um número inteiro positivo do usuário e mostra o número invertido.
 
-- **15.py**: Mostra os n termos da Série específica e imprime a soma da série.
+- **15.py**: Calcula o valor de H com N termos para a Série específica.
 
-- **16.py**: Calcula o valor de H com N termos para a Série específica.
-
-- **17.py**: Gera a Série específica até n termos e imprime a soma da série.
+- **16.py**: Gera a Série específica até n termos e imprime a soma da série.
 
 ## Funcionalidades:
 
