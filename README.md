@@ -37,9 +37,6 @@ Este repositório contém uma série de exercícios resolvidos em Python, abrang
 - **8**: Pede a temperatura em Celsius, transforma e mostra em Fahrenheit.
 - **9**: Pede 2 números inteiros e um número real, calcula e mostra o produto, a soma e o terceiro elevado ao cubo.
 - **10**: Pede a altura de uma pessoa e calcula o peso ideal usando a fórmula (72.7\*altura) - 58.
-- **11**: Pede a altura (h) de uma pessoa e calcula o peso ideal para homens e mulheres.
-- **12**: João Papo-de-Pescador, ao trazer um peso de peixes maior que 50 kg, paga multa. Este programa calcula o excesso e a multa.
-- **13**: Pede o valor por hora e o número de horas trabalhadas no mês, calcula e mostra salário bruto, descontos e líquido.
 - **14**: Para uma loja de tintas, calcula a quantidade de latas necessárias e o preço total.
 - **15**: Para uma loja de tintas, calcula a quantidade de tinta e os preços em diferentes situações.
 - **16**: Pede o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcula e informa o tempo aproximado de download do arquivo (em minutos).
